@@ -190,7 +190,7 @@
 #     if i=='gm':
 #         print('gm'.upper())
 #     else:
-#         print(i.capitalize())
+#         print(i.capitaliza())
    
 # cars=['toyota', 'mazda', 'hyundai', 'gm', 'kia']
 # for i in cars:
@@ -205,8 +205,8 @@
 # else:
 #     print(f"Xush kelibsiz , {login}") 
 
-# a=int(input("1-sonni kirit "))
-# b=int(input("2-sonni kirit "))
+# a=int(input("1-sonni kirit  "))
+# b=int(input("2-sonni kirit  "))
 # if a==b:
 #     print('Sonlar teng')
 # else:
@@ -337,10 +337,10 @@
 # python={
 #       'int':'Butun son',
 #      'float':'Haqiqiy son',
-#      'input':'string formatda',
+#      'input':'string formatdagi ma'lumot',
 #      'if':'Shart operatori',
-#      'while':'Shart operatori, cheksiz',
-#       'boolen':'True va false',
+#      'while':'Shart operatori, cheksiz davom eta oladi',
+#       'boolen':'True va False',
 #       'loop':'Sikl',
 #       'list':'royxat',
 #       'dict':"lug'at"
@@ -549,4 +549,4 @@
 # def dar(x,y=2):
 #     print(x**y)
 # dar(4,2)
-
+# sariq dev funksiya bo'yicha amaliyot yechimlari tepadagi 17-dars
